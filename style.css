@@ -1,0 +1,16 @@
+ .container{
+   
+  margin-top: 16%;
+  margin-left: 5%;
+    
+
+ }
+ .container img{
+    border: 10px solid rgba(8, 102, 224, 0.641);
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+   
+}
